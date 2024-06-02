@@ -4,7 +4,7 @@
   "description": "Productos para Alura Geek fake store api",
   "main": "index.js",
   "scripts": {
-    "start": "node api/server.js"
+    "start": "nodemon api/server.js"
   },
   "repository": {
     "type": "git",
